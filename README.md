@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheus-junio-da-silva
-- 👀 I’m interested in ...sql injection
+- 👀 I’m interested in ...data base
 - 🌱 I’m currently learning ...js
-- 💞️ I’m looking to collaborate on ...projetos própios
+- 💞️ I’m looking to collaborate on ...my projects
 - 📫 How to reach me ...
 
 <!---
