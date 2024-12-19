@@ -40,5 +40,5 @@
 
 ## About Me
 
-Apaixonado por tecnologia, educação e por facilitar a vida das pessoas através da programação.
+Passionate about technology, education, and leveraging programming to simplify and enhance people's lives.
 
