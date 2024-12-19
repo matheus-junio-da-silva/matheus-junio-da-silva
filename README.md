@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Júnio 🖐️
+## Hello! I'm Matheus Júnio. 🖐️
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-junio-da-silva&show_icons=true&theme=dracula&count_private=true)
 
@@ -6,7 +6,7 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-junio-da-silva&layout=compact&theme=dracula&hide_border=true)
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies I Use Daily
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 
-## Tecnologias que eu estudo
+## Technologies I'm Learning
 
 <div style="display: inline_block">
   
@@ -38,7 +38,7 @@
 
 </div><br/>
 
-## Sobre mim
+## About Me
 
 Apaixonado por tecnologia, educação e por facilitar a vida das pessoas através da programação.
 
